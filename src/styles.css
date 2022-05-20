@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  padding: 0 8px;
+}
+
+.appTitle {
+  text-align: center;
+}
+
+.elementDeChaqueDpts {
+  display: grid;
+  grid-template-columns: 50% 10% 10% 30%;
+  background-color: rgb(210, 210, 210);
+  font-family: sans-serif;
+}
+
+h5 {
+  font-style: italic;
+}
+
+div {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+button {
+  background-color: black;
+  color: white;
+}
+input {
+  margin-left: 1%;
+}
